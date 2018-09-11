@@ -23,7 +23,7 @@ This section describes the tools, materials, and relevant data that were used to
 
 ![fig-05](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/figures/Lim%20et%20al_2017_Fig05.jpg)
 
-yEd scripts: [Fig.3 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar16_Reviewed_Proximate%20Causes%20Loop.graphml) [Fig.4 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar7_Conversion%20Timber%20Dynamics.graphml) [Fig.5 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_8%20Aug%207_Reviewed%20CLD.graphml)
+*yEd scripts:* [Fig.3 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar16_Reviewed_Proximate%20Causes%20Loop.graphml), [Fig.4 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar7_Conversion%20Timber%20Dynamics.graphml), and [Fig.5 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_8%20Aug%207_Reviewed%20CLD.graphml)
 
 <a name="citation"></a>
 ## Citation
