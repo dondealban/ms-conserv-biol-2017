@@ -15,21 +15,15 @@ Political transitions often trigger substantial environmental changes. In partic
 ## Figure Materials
 This section describes the tools, materials, and relevant data that were used to develop the [final figures] presented in the study:
 
-**Fig.1.** The methodological workflow was developed using Microsoft Powerpoint. [PPTX]
+**Fig.1.** The methodological workflow was developed as a [presentation slide](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/figures/Lim%20et%20al_2017_Fig01.pptx) using Microsoft Powerpoint.
 
-**Fig.2.** Locations of case studies extracted from literature (1995-2016), and forest cover in 2000 (tree cover > 10%, Hansen et al. 2013).
-Hansen data: tiles, QML
-
-Hansen tree cover 2000 data tiles: 10N_090E, 20N_90E, 30N_090E, 30N_100E
-
-case study locations
-Boundaries: MIMU for Myanmar state boundaries, country boundaries from GADM
+**Fig.2.** The locations of case studies extracted from literature (1995-2016) and forest cover in 2000 (tree cover > 10%). The datasets used include the vector [shapefiles](https://github.com/dondealban/ms-conserv-biol-2017/tree/master/shapefiles) of the case study locations; the 2000 tree cover raster, specifically tiles 10N_090E, 20N_90E, 30N_090E, and 30N_100E, which were downloaded from [Global Forest Change v1.2](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.2.html); the Myanmar state and region boundaries from the [Myanmar Information Management Unit GeoNode](http://geonode.themimu.info/) and the neighboring country boundaries from the [Global Administrative Database](https://gadm.org). The QGIS [QML style files](https://github.com/dondealban/ms-conserv-biol-2017/tree/master/qml) for the layers are also provided.
 
 **Figs.3-5.** These are the causal network diagrams that were developed using the [yEd Graph Editor](https://www.yworks.com/products/yed) software, which uses an XML-based GraphML file format for graphs.
 
-![fig-05]()
+![fig-05](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/figures/Lim%20et%20al_2017_Fig05.jpg)
 
-yEd scripts: [Fig.3 GraphML] [Fig.4 GraphML] [Fig.5 GraphML]
+yEd scripts: [Fig.3 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar16_Reviewed_Proximate%20Causes%20Loop.graphml) [Fig.4 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_3%20Mar7_Conversion%20Timber%20Dynamics.graphml) [Fig.5 GraphML](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/yed/2017_8%20Aug%207_Reviewed%20CLD.graphml)
 
 <a name="citation"></a>
 ## Citation
