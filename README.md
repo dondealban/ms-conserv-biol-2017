@@ -11,6 +11,26 @@ This repository contains some of the materials used for the causal network paper
 ## Abstract
 Political transitions often trigger substantial environmental changes. In particular, deforestation can result from the complex interplay among the components of a system—actors, institutions, and existing policies—adapting to new opportunities. A dynamic conceptual map of system components is particularly useful for systems in which multiple actors, each with different worldviews and motivations, may be simultaneously trying to alter different facets of the system, unaware of the impacts on other components. In Myanmar, a global biodiversity hotspot with the largest forest area in mainland Southeast Asia, ongoing political and economic reforms are likely to change the dynamics of deforestation drivers. A fundamental conceptual map of these dynamics is therefore a prerequisite for interventions to reduce deforestation. We used a system-dynamics approach and causal-network analysis to determine the proximate causes and underlying drivers of forest loss and degradation in Myanmar from 1995 to 2016 and to articulate the linkages among them. Proximate causes included infrastructure development, timber extraction, and agricultural expansion. These were stimulated primarily by formal agricultural, logging, mining, and hydropower concessions and economic investment and social issues relating to civil war and land tenure. Reform of land laws, the link between natural resource extraction and civil war, and the allocation of agricultural concessions will influence the extent of future forest loss and degradation in Myanmar. The causal-network analysis identified priority areas for policy interventions, for example, creating a public registry of land-concession holders to deter corruption in concession allocation. We recommend application of this analytical approach to other countries, particularly those undergoing political transition, to inform policy interventions to reduce forest loss and degradation.
 
+<a name="figure_materials"></a>
+## Figure Materials
+This section describes the tools, materials, and relevant data that were used to develop the [final figures] presented in the study:
+
+**Fig.1.** The methodological workflow was developed using Microsoft Powerpoint. [PPTX]
+
+**Fig.2.** Locations of case studies extracted from literature (1995-2016), and forest cover in 2000 (tree cover > 10%, Hansen et al. 2013).
+Hansen data: tiles, QML
+
+Hansen tree cover 2000 data tiles: 10N_090E, 20N_90E, 30N_090E, 30N_100E
+
+case study locations
+Boundaries: MIMU for Myanmar state boundaries, country boundaries from GADM
+
+**Figs.3-5.** These are the causal network diagrams that were developed using the [yEd Graph Editor](https://www.yworks.com/products/yed) software, which uses an XML-based GraphML file format for graphs.
+
+![fig-05]()
+
+yEd scripts: [Fig.3 GraphML] [Fig.4 GraphML] [Fig.5 GraphML]
+
 <a name="citation"></a>
 ## Citation
 Lim, C.L., G.W. Prescott, J.D.T. De Alban, A.D. Ziegler, E.L. Webb (2017). Untangling the proximate causes and underlying drivers of deforestation and forest degradation in Myanmar. *Conserv Biol.* 31(6), 1362-1372. [doi:10.1111/cobi.12984](https://doi.org/10.1111/cobi.12984)
