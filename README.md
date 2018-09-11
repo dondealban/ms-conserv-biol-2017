@@ -5,7 +5,7 @@ Untangling the proximate causes and underlying drivers of deforestation and fore
 
 <a name="overview"></a>
 ## Overview
-This repository contains some of the materials used for the causal network paper published in [Conservation Biology](https://onlinelibrary.wiley.com/journal/15231739) journal, first published online on August 2017 and in print on December 2017. The paper is published open-access and can be downloaded for free under a [CC BY-NC-ND 4.0](#license). This repository serves to supplement the published paper by creating a backup of some of the materials used in and developed through the study, to encourage doing better science by fostering reproducibility and transparency, and to improve the overall impact of the research.
+This repository contains some of the materials used for the causal network paper published in [Conservation Biology](https://onlinelibrary.wiley.com/journal/15231739) journal, first published online on August 2017 and in print on December 2017. The paper is published open-access and can be downloaded for free under a [CC BY-NC-ND 4.0](#license). This repository serves to supplement the published paper by creating a backup of ***some*** of the materials used in and developed through the study, to encourage doing better science by fostering reproducibility and transparency, and to improve the overall impact of the research.
 
 <a name="abstract"></a>
 ## Abstract
