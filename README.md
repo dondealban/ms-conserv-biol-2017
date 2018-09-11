@@ -13,7 +13,7 @@ Political transitions often trigger substantial environmental changes. In partic
 
 <a name="figure_materials"></a>
 ## Figure Materials
-This section describes the tools, materials, and relevant data that were used to develop the [final figures] presented in the study:
+This section describes the tools, materials, and relevant data that were used to develop the [final figures] presented in the study. Figures 1, 3-5 were developed by Cheng Ling Lim; Figure 2 by myself.
 
 **Fig.1.** The methodological workflow was developed as a [presentation slide](https://github.com/dondealban/ms-conserv-biol-2017/blob/master/figures/Lim%20et%20al_2017_Fig01.pptx) using Microsoft Powerpoint.
 
